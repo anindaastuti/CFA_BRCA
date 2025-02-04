@@ -1,0 +1,5 @@
+da0db0cb0dc0
+HES1 | ERBB2 | HEY1 | NOTCH1
+FLT4 | ERBB2 | HES1 | NOTCH1
+FLT4 | ERBB2 | HEY1 | NOTCH1
+ans_count= 3
